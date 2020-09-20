@@ -245,11 +245,4 @@ d37096232ed8: Pushing [==================================================>]  17.
 4ef54afed780: Waiting 
 
 
-
- 
-2. 
-
- 
-
- 
-
+4. Browse https://hub.docker.com/repository/docker/celiaw/helloworld 
